@@ -1,66 +1,17 @@
 # Python Examples
 
-Short and sweet coding snippets to learn and explore the Python programming language. These examples were compiled for Ian Petrarca's PACE CIS101 class in 2019.
+Short coding snippets with comments to learn and explore the Python programming language. These examples were compiled for Ian Petrarca's PACE CIS101 class in 2019.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These examples can be run on a local-machine if the Python interpreter has been installed. They can also be copied into an online IDE like Trinket, Sololearn and Code Academey. I reccomend using Visual Studio Code or the sublime text-editor.
 
-### Prerequisites
+### Installing and Editing Python
+To install Python on your local machine, please download the Python3 interpreter.
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Python Library](https://www.python.org/) - Python Intrepreter
+* [Visual Studio Code](https://code.visualstudio.com/) - Visual Studio Code Editor
+* [Sublime Text ](https://www.sublimetext.com/) - Used to generate RSS Feeds
 
 ## Contributing
 
