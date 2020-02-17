@@ -15,13 +15,13 @@ To install Python on your local machine, please download the Python3 interpreter
 
 ## Examples List
 
-* [Variable Types and Conversion](https://www.python.org/) - Python Intrepreter
-* [If Statements](https://code.visualstudio.com/) - Visual Studio Code Editor
-* [Command Line Interfaces](https://code.visualstudio.com/) - Visual Studio Code Editor
-* [For Loops](https://code.visualstudio.com/) - Visual Studio Code Editor
-* [Lists](https://code.visualstudio.com/) - Visual Studio Code Editor
-* [File I/O](https://code.visualstudio.com/) - Visual Studio Code Editor
+* [Variable Types and Conversion](https://www.python.org/)
+* [If Statements](https://code.visualstudio.com/)
+* [Command Line Interfaces](https://code.visualstudio.com/) 
+* [For Loops](https://code.visualstudio.com/) 
+* [Lists](https://code.visualstudio.com/) 
+* [File I/O](https://code.visualstudio.com/) 
 
-* [Compound Interest](https://code.visualstudio.com/) - Visual Studio Code Editor
-* [Greeting A User](https://code.visualstudio.com/) - Visual Studio Code Editor
-* [Random Student Generator](https://code.visualstudio.com/) - Visual Studio Code Editor
+* [Compound Interest](https://code.visualstudio.com/)
+* [Greeting A User](https://code.visualstudio.com/) 
+* [Random Student Generator](https://code.visualstudio.com/)
